@@ -1,2 +1,3 @@
 # ARPIT-DEMO
-this is my git repose 
+this is my first repository.
+author-arpit dubey
